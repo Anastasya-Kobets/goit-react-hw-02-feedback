@@ -1,0 +1,15 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  font-size: 22px;
+  font-weight: bold;
+}
+.good {
+  color: #27b027;
+}
+.neutral {
+  color: rgb(194, 166, 22);
+}
+.bad {
+  color: #ff0000;
+}
